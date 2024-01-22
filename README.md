@@ -2,7 +2,7 @@
 
 A Flutter package that provides an interactive on/off switch widget.
 
-![on_off_switch Demo](./assets/demo.gif)
+![on_off_switch Demo](https://media.giphy.com/media/euHIKzZ9mntFWJ7XYv/giphy.gif)
 ## Installation
 
 Add the following line to your `pubspec.yaml` file:
