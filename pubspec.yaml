@@ -1,7 +1,7 @@
 name: on_off_switch
 description: A Flutter package to create a custom on/off switch widget.
 version: 0.0.1
-homepage:
+repository: 'https://github.com/osama96gh/on_off_flutter_switch'
 
 environment:
   sdk: '>=3.0.6 <4.0.0'
